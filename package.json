@@ -13,7 +13,8 @@
   "files": [
     "Howitzer.js",
     "Howitzer.d.ts",
-    "Howitzer.js.map"
+    "Howitzer.js.map",
+    "Howitzer.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
